@@ -53,7 +53,6 @@ const Feedback = () => (
         </motion.div>
       </motion.div>
     </motion.div>
-    Feedback section
   </section>
 );
 
